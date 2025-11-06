@@ -2,7 +2,7 @@
 
 Authors
 
-Abhinav M, Krishan P, & Ayush J
+Krishan Pancholi, Abhinav Munshi, & Ayush Jain
 
 ⸻
 
