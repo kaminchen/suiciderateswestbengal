@@ -44,7 +44,7 @@ The project analyzes suicide data between 2001 and 2014, focusing on:
 
 4. State Comparisons
 
-Rank	State	Total Suicides (2001–2014)
+Rank State	Total Suicides (2001–2014)
 1	Maharashtra	563,462
 2	Tamil Nadu	486,324
 3	Andhra Pradesh	469,279
